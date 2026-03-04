@@ -1,0 +1,6 @@
+output*
+test.txt
+pyvenv.cfg
+.env
+Converter.py
+/lib64
